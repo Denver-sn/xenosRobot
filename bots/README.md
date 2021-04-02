@@ -1,7 +1,7 @@
 ## Installation on Vps server
 
-###  Requirements to use this bot
- - Vps server with Ubuntu (Use google cloud it's free)
+###  Requirements (for vps )
+ -  Ubuntu system (Use google cloud it's free)
  - install python
  - Install a Google and chromedriver (On your server ofc)
 

@@ -18,14 +18,13 @@ Donate :) [![donateImg]](https://www.paypal.me/Zeus201)
 
 
 ### 2) Requirements to use this bot
- - Heroku account
+ - Heroku account/Vps account
  - RR Vk account or Facebook account
 
 ### 3) WARNING
     Anyone who try to sell the bot or to trade with it will be denounced as a scammer
     
 ### 5)Thanks to...
-  - Python devs xD because i created this bot with this beautiful language
   - [pablo] for helping me with Auto refil
   - [Xenos] to support me all time
 
